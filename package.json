@@ -1,0 +1,9 @@
+{
+  "name": "d3-force-directed-graph",
+  "main": "d3-force-directed-graph.js",
+  "version": "92.0.0",
+  "author": {
+    "name": "ty0207",
+    "url": "https://beta.observablehq.com/@tx19980520"
+  }
+}
